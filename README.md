@@ -38,6 +38,7 @@
 
 [^1]: 趙元任，《趙元任日記》，1938年1月4日條。另見 University of Hawaiʻi at Mānoa, “China100 @ UH Mānoa: Faculty Contributions,” “Courses taught by Dr. Yuan Ren Chao” 一節，https://sites.google.com/hawaii.edu/100years-chinesestudies-uhm/building-the-curriculum/faculty-contributions。
 
-[^2]: 錢穆，〈無師自通中國文言自修讀本之編輯計畫書〉，收錄於《中國文學論叢》（臺北：三民書局，2023），頁301–312。
+[^2]: 錢穆，〈無師自通中國文言自修讀本之編輯計畫書〉，收錄於《中國文學論叢》（臺北：三民書局，2023），頁 301–312。
 
-[^3]: 孫文，《建國方略》（臺北：三民書局，2025），頁28–29。
+[^3]: 孫文，《建國方略》（臺北：三民書局，2025），頁 28–29。
+
